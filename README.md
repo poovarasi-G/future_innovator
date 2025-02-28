@@ -1,10 +1,13 @@
 # Future Innovator
 
 <p align="center" width="80%">
-<img width="100%" src="./future innovator logo.png" />
+<img width="100%" src="./future innovator_logo.png" />
 </p>
 
 # Microcontroller Kit
+<p align="center" width="80%">
+<img width="100%" src="./future innovator image.png" />
+</p>
 
 This microcontroller kit is engineered to revolutionize how you approach embedded systems and IoT projects. Acting as the central hub, it seamlessly integrates sensors, motors, AI cameras, and other modules to create a versatile, intuitive, and future-ready solution for innovators of all ages.
 
@@ -85,43 +88,23 @@ Empower the next generation to dream, build, and solve real-world problems with 
 ## Sensors and Modules List
 
 ### 1. AI Camera Module
-
-#### **Port 6: Optimized for AI Camera**
-- Enables real-time AI-powered imaging solutions.
-
-#### **Specifications**
-- **Microcontroller**: ESP32 (dual-core, 240 MHz)
-- **Camera**: OV2640, 2MP, max resolution UXGA (1600x1200)
-- **Connectivity**: Wi-Fi, Bluetooth 4.2
-- **Storage**: 4 MB Flash, MicroSD slot (up to 4 GB)
-- **Interfaces**: GPIO, UART, SPI, I2C, PWM
-- **Special Features**: AI support (face detection/recognition)
-
-#### **Future Usefulness**
-- **Security Systems**: Face detection for smart access control or automated surveillance.
-- **Autonomous Vehicles**: Object detection and path recognition for navigation.
-- **Healthcare**: Patient activity monitoring using video analytics.
-- **Agriculture**: Identify pests or diseases in crops using image recognition.
-- **Wildlife Monitoring**: Non-intrusive surveillance for ecological studies.
-
----
-
 ### 2. DC Motors + Encoder
+### 3. Servo Motor
+### 4. Moisture Sensor
+### 5. IR Sensor
+### 6. Ultrasonic + IR Hub 
+### 7. Motion Sensor
+### 8. Color Sensor
+### 9. Light Detector Sensor
+### 10. Vibration Sensor
+### 11. Sound Sensor
+### 12. RGB Led Output
+### 13. Rain Drop Sensor
+### 14. Soil Moisture Sensor
+### 15. Liquid Temp Sensor
+### 16. Touch Sensor
+### 17. Health Sensor
 
-#### **Port 1 to Port 4: Dedicated for Motor Connections**
-- Supports **DC motors**.
-- Ideal for robotics, automation, and motion control applications.
-- Ensures seamless motor integration, offering **precise control** for innovative projects.
-
-#### **Specifications**
-- **Encoders**: Provides feedback on position, speed, and direction.
-- **Control**: PWM for speed regulation.
-- **Ports**: Motors connect to Ports 1–4 (avoid sensor conflict).
-
-#### **Future Usefulness**
-- **Robotics**: Precision movement in autonomous robots and drones.
-- **Smart Farming**: Automate machines like plows and harvesters.
-- **Education**: Build robots for learning motion control and feedback systems.
 
 ---
 
