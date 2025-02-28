@@ -1,3 +1,9 @@
+# Future Innovator
+
+<p align="center" width="80%">
+<img width="100%" src="./future innovator logo.png" />
+</p>
+
 # Microcontroller Kit
 
 This microcontroller kit is engineered to revolutionize how you approach embedded systems and IoT projects. Acting as the central hub, it seamlessly integrates sensors, motors, AI cameras, and other modules to create a versatile, intuitive, and future-ready solution for innovators of all ages.
