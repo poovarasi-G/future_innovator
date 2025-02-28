@@ -88,6 +88,7 @@ Empower the next generation to dream, build, and solve real-world problems with 
 ## Sensors and Modules List
 
 ### 1. AI Camera Module
+- **Code**: [1_dht11_test_code.ino](Data%20Sciens%20PRO%20-%20Firmware/Test-codes/01/1_dht11_test_code.ino)
 ### 2. DC Motors + Encoder
 ### 3. Servo Motor
 ### 4. Moisture Sensor
