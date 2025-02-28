@@ -1,12 +1,12 @@
 # Future Innovator
 
-<p align="center" width="80%">
-<img width="100%" src="./future innovator_logo.png" />
+<p align="center" width="40%">
+<img width="50%" src="./future innovator_logo.png" />
 </p>
 
 # Microcontroller Kit
 <p align="center" width="80%">
-<img width="100%" src="./future innovator image.png" />
+<img width="70%" src="./future innovator image.png" />
 </p>
 
 This microcontroller kit is engineered to revolutionize how you approach embedded systems and IoT projects. Acting as the central hub, it seamlessly integrates sensors, motors, AI cameras, and other modules to create a versatile, intuitive, and future-ready solution for innovators of all ages.
@@ -88,7 +88,6 @@ Empower the next generation to dream, build, and solve real-world problems with 
 ## Sensors and Modules List
 
 ### 1. AI Camera Module
-- **Code**: [ESP32_CAM_DEFAULT_IP.ino](future_innovator/tree/main/FutureInnovator-test%20codes/ESP32_CAM_DEFAULT_IP)
 ### 2. DC Motors + Encoder
 ### 3. Servo Motor
 ### 4. Moisture Sensor
@@ -106,45 +105,6 @@ Empower the next generation to dream, build, and solve real-world problems with 
 ### 16. Touch Sensor
 ### 17. Health Sensor
 
-Colorsensor_Test
-
-DC_Motor_Test
-
-DC_Motor_with_Encoder_Test
-
-ESP32_CAM_DEFAULT_IP
-
-Heartrate_Temp_Test
-
-Heartrate_Test
-
-IR_Test
-
-IR_US_Serially_Test
-
-LightDetector-Test/LightDetector_Test
-
-LiquidTemp_Test
-
-Moisture_Test
-
-PIR_Test
-
-Pulse_Oximeter_test/Pulse_Oximeter_Test
-
-RGB_Test
-
-RainDrop_Test
-
-Servo_Test
-
-SoilMoisture_Test
-
-Sound_Test
-
-TouchSensor_Test
-
-Vibration_Test
 ---
 
 ## Conclusion
